@@ -1,7 +1,6 @@
 # Transportation-booking
 
-	A simple online booking form for Faculty & Staff, Student and Guest for availing the transport both for official and personal use.
-	Used to connect two campuses of IIT Tirupati.
+A simple online booking form for Faculty & Staff, Student and Guest for availing the transport both for official and personal use. Used to connect two campuses of IIT Tirupati.
 
 # Webpage View
 
